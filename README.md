@@ -35,8 +35,8 @@ Here are some ideas to get you started:
  - 💬 Ask me about **anything**
  
  My stack is as follows:
-* **Frontend**: HTML, CSS, Bootstrap, JavaScript, React, Vue.js
-* **Frontend**: Node, Express, Django
+* **Frontend**: HTML, CSS, Bootstrap, JavaScript,TypeScript, React, React-Native, Vue.js,
+* **Backend**: Node, Express, Python, Django, php, Laravel,
 * **Database**: MongoDB, MySql, PostgreSql
 * **Cloud Computing**: Docker
 
