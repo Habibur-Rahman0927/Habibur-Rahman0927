@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 My Portfolio  [here](https://habibur-rahman0927.github.io/PERSONAL-WEBSITE/INDEX.html)
 
-- 📫 How to reach me **habibur.rahman@gmail.com**
+- 📫 How to reach me **habibur.rahman.0927@gmail.com**
 
  - 💬 Ask me about **anything**
  
