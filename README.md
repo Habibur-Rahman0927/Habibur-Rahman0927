@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Habibur Rahman</h1>
-<h3 align="center">A Passionate Full Stack Web Developer</h3> 
-<h4 align="center">I'm a Web Developer from Bangladesh 🇧🇩 <h4>
+<h3 align="center">A Junior Software Engineer</h3> 
+<h4 align="center">I'm from Bangladesh 🇧🇩 <h4>
 
 
 <p align="left">
