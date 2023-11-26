@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Habibur Rahman</h1>
+<h1 align="center">Hi 👋, I'm Md Habibur Rahman</h1>
 <h3 align="center">A Junior Software Engineer</h3> 
 <h4 align="center">I'm from Bangladesh 🇧🇩 <h4>
 
@@ -35,10 +35,10 @@ Here are some ideas to get you started:
  - 💬 Ask me about **anything**
  
  My stack is as follows:
-* **Frontend**: HTML, CSS, Bootstrap, JavaScript,TypeScript, React, React-Native, Vue.js,
-* **Backend**: Node, Express, Python, Django, php, Laravel,
-* **Database**: MongoDB, MySql, PostgreSql
-* **Cloud Computing**: Docker
+* **Frontend**: HTML, CSS, Bootstrap, JavaScript, TypeScript, ReactJs, NextJs, Vue.js,
+* **Backend**: Node, Express, Python, Django, PHP, Laravel,
+* **Database**: MongoDB, MySql, PostgreSQL
+* **Cloud Computing**: Docker, CI/CD, 
 
 
 
