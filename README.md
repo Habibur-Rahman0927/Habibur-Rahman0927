@@ -54,9 +54,9 @@ Here are some ideas to get you started:
  
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Habibur-Rahman0927&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   ## Leetcode Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Habibur-Rahman0927?ext=heatmap&animation=true)](https://leetcode.com/Habibur-Rahman0927)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Md-Habibur-Rahman0927?ext=heatmap&animation=true)](https://leetcode.com/Md-Habibur-Rahman0927)
  <p align="center">
-<a href="https://www.linkedin.com/in/habibur-rahman-40ba03214/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/muhammad-arsalan-manzoor-4088479b/" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/md-habibur-rahman0927/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/muhammad-arsalan-manzoor-4088479b/" height="20" width="20" /></a>
   <a href="https://web.facebook.com/mdhabibur.rahaman.9400" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100006634666984" height="20" width="20" /></a>
   <a href="https://join.skype.com/invite/uXEP1Jsqi2Be" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg" alt="https://twitter.com/arsalan90m" height="20" width="20" /></a>
   
